@@ -1,0 +1,9 @@
+sudo su
+docker ps
+sudo su
+docker ps
+sudo su
+docker ps
+sudo su
+docker ps
+sudo su
